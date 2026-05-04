@@ -244,11 +244,11 @@ The training notebooks save multiple formats:
 - optional GGUF export in the Gemma notebook
 
 Examples from the notebooks:
-- `Paras014/qwen35_2b_finetune_16bit_final` (Main)
-- `Paras014/gemma-4-finetune-final` (Main)
-- `Paras014/qwen35_2b_finetune_4bit_final`
-- `Paras014/qwen35_2b_lora_final`
-- `Paras014/gemma_4_lora_final`
+- [`Paras014/qwen35_2b_finetune_16bit_final`](https://huggingface.co/Paras014/qwen35_2b_finetune_16bit_final)
+- [`Paras014/qwen35_2b_finetune_4bit_final`](https://huggingface.co/Paras014/qwen35_2b_finetune_4bit_final)
+- [`Paras014/qwen35_2b_lora_final`](https://huggingface.co/Paras014/qwen35_2b_lora_final)
+- [`Paras014/gemma_4_lora_final`](https://huggingface.co/Paras014/gemma_4_lora_final)
+- [`Paras014/gemma-4-finetune-final`](https://huggingface.co/Paras014/gemma-4-finetune-final)
 
 
 ## Key Idea
