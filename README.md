@@ -132,6 +132,8 @@ This project was explored in multiple stages:
 
 ## Data Format
 
+Created Reasoning Dataset Link :
+- [`Reasoning Dataset Link MiniMax2.5`](https://drive.google.com/drive/folders/1ysbSTTd63cbBSdUuxoSJv7SwHI1Xz2ny)
 The code expects telecom RCA samples in CSV form.
 
 Typical files:
