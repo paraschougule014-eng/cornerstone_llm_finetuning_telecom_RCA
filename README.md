@@ -56,7 +56,7 @@ Why it exists:
 - The raw task is numerically heavy
 - Instead of forcing the model to parse all tables itself, the script adds structured evidence to the prompt
 
-### 3. `Qwen_3_5_2B_Finetune (1).ipynb`
+### 3. `Qwen_3_5_2B_Finetune (2).ipynb`
 Notebook for reasoning-based fine-tuning of `unsloth/Qwen3.5-2B`.
 
 What it does:
@@ -76,7 +76,7 @@ Notes:
 - Uses 16-bit LoRA instead of QLoRA
 - Saves merged 16-bit, merged 4-bit, and LoRA-only variants
 
-### 4. `Gemma4_(E2B)_Text_Training.ipynb`
+### 4. `Gemma4_(E2B)_Text_Training (1).ipynb`
 Notebook for reasoning-based fine-tuning of `unsloth/gemma-4-E2B-it`.
 
 What it does:
@@ -213,7 +213,7 @@ python qwen_train.py \
 ### Qwen 3.5 reasoning fine-tuning
 
 Open:
-- `Qwen_3_5_2B_Finetune (1).ipynb`
+- `Qwen_3_5_2B_Finetune (2).ipynb`
 
 Upload or mount:
 - `lightning_output_combined.csv`
@@ -223,7 +223,7 @@ Then run all notebook cells.
 ### Gemma 4 reasoning fine-tuning
 
 Open:
-- `Gemma4_(E2B)_Text_Training.ipynb`
+- `Gemma4_(E2B)_Text_Training (1).ipynb`
 
 Upload or mount:
 - `lightning_output_combined.csv`
